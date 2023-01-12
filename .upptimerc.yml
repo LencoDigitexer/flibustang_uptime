@@ -14,7 +14,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /flibustang_uptime
   logoUrl: https://raw.githubusercontent.com/LencoDigitexer/flibustang_uptime/master/assets/logo.png
-  name: FlibustaNG
+  name: FlibustaNG статус
   theme: dark
   introTitle: "**FlibustaNG** - поиск и чтение книг."
   introMessage: Статистика доступности сервиса
