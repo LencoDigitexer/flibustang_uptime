@@ -22,19 +22,19 @@
     "url": "https://flibustang.online",
     "icon": "https://icons.duckduckgo.com/ip3/flibustang.online.ico",
     "slug": "flibustang-online",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "96.28%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 1775,
-    "timeDay": 11455,
-    "timeWeek": 3393,
-    "timeMonth": 1775,
-    "timeYear": 1775,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 1712,
+    "timeDay": 7810,
+    "timeWeek": 3074,
+    "timeMonth": 1712,
+    "timeYear": 1712,
     "dailyMinutesDown": {
-      "2023-01-25": 54
+      "2023-01-25": 85
     }
   }
 ]
