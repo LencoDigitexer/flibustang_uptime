@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 845,
-    "timeWeek": 828,
-    "timeMonth": 724,
-    "timeYear": 724,
+    "time": 732,
+    "timeDay": 867,
+    "timeWeek": 831,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,19 @@
     "url": "https://flibustang.online",
     "icon": "https://icons.duckduckgo.com/ip3/flibustang.online.ico",
     "slug": "flibustang-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 667,
-    "timeWeek": 707,
-    "timeMonth": 636,
-    "timeYear": 636,
-    "dailyMinutesDown": {}
+    "time": 1775,
+    "timeDay": 11455,
+    "timeWeek": 3393,
+    "timeMonth": 1775,
+    "timeYear": 1775,
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
