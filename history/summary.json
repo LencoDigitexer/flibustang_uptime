@@ -4,7 +4,7 @@
     "url": "https://flibustang.ru",
     "icon": "https://icons.duckduckgo.com/ip3/flibustang.ru.ico",
     "slug": "flibustang-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1197,
     "timeYear": 835,
     "dailyMinutesDown": {
+      "2023-05-16": 0,
       "2023-05-06": 67,
       "2023-05-03": 215,
       "2023-05-02": 338,
