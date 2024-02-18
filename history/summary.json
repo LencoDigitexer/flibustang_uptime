@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flibustang.ru.ico",
     "slug": "flibustang-ru",
     "status": "down",
-    "uptime": "35.48%",
+    "uptime": "35.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.27%",
+    "uptimeYear": "29.00%",
     "time": 911,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 938,
+    "timeYear": 939,
     "dailyMinutesDown": {
-      "2024-02-17": 68,
+      "2024-02-18": 73,
+      "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -283,8 +284,7 @@
       "2023-04-12": 17,
       "2023-03-29": 30,
       "2023-03-21": 51,
-      "2023-03-02": 18,
-      "2023-02-18": 18
+      "2023-03-02": 18
     }
   },
   {
@@ -293,18 +293,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flibustang.online.ico",
     "slug": "flibustang-online",
     "status": "down",
-    "uptime": "75.61%",
+    "uptime": "75.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.29%",
+    "uptimeYear": "73.02%",
     "time": 1084,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1082,
+    "timeYear": 1083,
     "dailyMinutesDown": {
-      "2024-02-17": 68,
+      "2024-02-18": 73,
+      "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -412,8 +413,7 @@
       "2023-04-12": 16,
       "2023-03-29": 25,
       "2023-03-21": 49,
-      "2023-03-02": 18,
-      "2023-02-18": 18
+      "2023-03-02": 18
     }
   }
 ]
